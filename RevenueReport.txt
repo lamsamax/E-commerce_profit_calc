@@ -1,0 +1,1 @@
+Total revenue for orders in eComm Web application: 40000.0

@@ -1,0 +1,1 @@
+Total profit for orders in eComm Web application: 22202.0
